@@ -4,3 +4,7 @@ logs/
 data/
 docker-compose.yml
 entrypoint.sh
+.idea/
+*.iml
+__pycache__/
+*.pyc

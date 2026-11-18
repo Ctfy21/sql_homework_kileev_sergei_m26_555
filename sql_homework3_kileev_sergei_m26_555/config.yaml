@@ -1,0 +1,6 @@
+# Подключение к PostgreSQL
+dbname: postgres
+user: postgres
+password: qwerty
+host: localhost
+dbtableprefix: "public."
